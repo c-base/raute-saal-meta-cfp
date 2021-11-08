@@ -57,6 +57,11 @@ Die Marke c-base, mit ihrer mehrstufigen innovativen Multiplikatorenplattform, i
 
 Nutze auch Du die Möglichkeiten, die Dir die größte Jahresendveranstaltung der europäischen Hackerszene zur Zusammenarbyte eröffnet und veröffentliche, in deinem ganz persönlich Zeitfenster, auf "c-base".
 
+Livestage-Location: c-base, Rungestr. 20, 10179 Berlin.
+2G-Corona-Regeln: Zutritt nur mit digitalem Nachweis, für mehr Infos: https://c-base.org
+
+
+
 https://pretalx.c3voc.de/rc3-2021-cbase/cfp
 
 ### English version:
@@ -69,6 +74,8 @@ The c-base brand, with its multi-level innovative multiplier platform, is a prob
 
 Take advantage of the opportunities that the biggest end-of-the-year event of the European hacker scene opens up for you and publish on "c-base" in your own personal time slot.
 
+Location of live stage: c-base, Rungestr. 20, 10179 Berlin, Germany.
+Entry under the city of Berlin's "2G" rules only, for details see https://c-base.org
 
 https://pretalx.c3voc.de/rc3-2021-cbase/cfp
 
